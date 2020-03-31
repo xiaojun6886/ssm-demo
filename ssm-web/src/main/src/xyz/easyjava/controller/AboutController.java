@@ -17,4 +17,11 @@ public class AboutController {
     public String view(){
         return "about";
     }
+
+
+    public void test(){
+        System.out.println("haha");
+    }
+
+
 }
